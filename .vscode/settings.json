@@ -1,0 +1,4 @@
+{
+    "code-runner.customCommand": "java -jar processing-py.jar MAIN.py",
+    "python.linting.enabled": false
+}
